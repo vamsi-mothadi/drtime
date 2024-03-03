@@ -10,7 +10,7 @@ function Navbar() {
                     Doc Time!
                 </div>
                 <div className='caption'>
-                    don't wait anymore...
+                    don't wait anymore...!
                 </div>
             </div>
 
