@@ -1,5 +1,5 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Navbar() {
     return (
@@ -16,7 +16,7 @@ function Navbar() {
 
             <div className='options'>
                 <Link to=''>Home</Link>
-                <Link to=''>Contact us</Link>
+                <Link to=''>Contact Us</Link>
                 <Link to=''>About</Link>
             </div>
             </div>
